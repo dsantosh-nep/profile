@@ -20,9 +20,9 @@ HOW TO RECREATE THIS PROFILE
 
 ## 👾 About Me
 
-Hey! I'm **Sagar** — a cybersecurity professional based in **Melbourne, Australia 🇦🇺**,
+Hey! I'm **Santosh** — a cybersecurity professional based in **Melbourne, Australia 🇦🇺**,
 transitioning career into the world of **threat detection, incident response,
-and blue team operations**. I hold a **CompTIA Security+ CE** certification and completed the **Monash University Cybersecurity Bootcamp** (in partnership with edX).
+and blue team operations**. I am currently studying Cibersecurity and pland to get **CompTIA Security+ CE certification by the end of October 2026 and ongoing Certification for **SC-200** I have worked as an IT Support Professional for more than 10 years back in my home country. I could not pursue my dream career due to some reasons but now I am on the way to reach my goal of becoming Cybersecurity Professional. 
 
 When I'm not spinning up virtual labs or hunting CTF flags, I'm building ecommerce ventures
 and experimenting with AI automation.
@@ -30,8 +30,8 @@ and experimenting with AI automation.
 - 🔭 **Currently working on:** Cybersecurity portfolio labs (SIEM, EDR, log analysis)
 - 🌱 **Currently learning:** Splunk, Microsoft Sentinel, SOC workflows & MITRE ATT&CK
 - 🛡️ **Goal:** Land a SOC Analyst / Help Desk / Systems Administrator role
-- 🏃 **Outside the terminal:** Playing Cricket, AI, Crypto & gym (new hobby after trying to shred some fat off!!)
-- 💡 **Fun fact:** I pivoted from hospitality/care into cybersecurity — zero regrets.
+- 🏃 **Outside the terminal:** Playing and Watching Cricket, AI, 
+- 💡 **Fun fact:** I am about to pivot from hospitality/care industry into cybersecurity without any regrets as I feel that this is where I belong. 
 
 ---
 
@@ -40,8 +40,8 @@ and experimenting with AI automation.
 | Credential                | Issuer                  | Status              |
 | ------------------------- | ----------------------- | ------------------- |
 | 🏅 CompTIA Security+ CE   | CompTIA                 | ✅ Certified        |
-| 🎓 Cybersecurity Bootcamp | Monash University × edX | ✅ Completed (2024) |
 | 📚 SOC Analyst Path       | TryHackMe / HTB         | 🔄 In Progress      |
+| 📚 SC-200 Certification   | Microsoft.              | 🔄 In Progress      |
 
 ---
 
@@ -82,12 +82,6 @@ and experimenting with AI automation.
 
 | Project | Description | Skills |
 | ------- | ----------- | ------ |
-| 🔍 [**Automated Nmap Scanner**](https://github.com/sagarbid/Automated-Nmap-Network-Scanner) | Python CLI tool automating network recon — target scanning, open port identification & structured result export replicating a real pentest enumeration phase | `Python` `Nmap` `CLI` `File I/O` `Parsing` |
-| 📱 [**Mobile Device Forensics**](https://github.com/sagarbid/YOUR_REPO) | Forensic iPhone examination in a simulated theft & fraud case — recovered deleted messages, browser history & geolocation artifacts with full chain-of-custody documentation | `Mobile Forensics` `Artifact Analysis` `Timeline Reconstruction` `Digital Evidence` |
-| 🔓 [**Password Cracking with Hashcat**](https://github.com/sagarbid/Password-Cracking-Hashcat) | Brute-force & dictionary attack automation via Python & Bash using Hashcat — presented findings at Monash Bootcamp final conference on weak password policy implications | `Hashcat` `Python` `Bash` `Brute Force` `Dictionary Attack` |
-| 🖥️ [**SOC Analysis — Virtual Space Industries**](https://github.com/sagarbid/YOUR_REPO) | Simulated SOC analyst role defending web & Windows servers under live attack — detected privilege escalations, service anomalies & produced MITRE ATT&CK-mapped IR documentation | `Splunk` `MITRE ATT&CK` `Incident Response` `Blue Team` `Windows/Linux Logs` |
-| 📊 [**Splunk SIEM — Vandalay Industries**](https://github.com/sagarbid/Splunk-SIEM-Monitoring-Vandalay-Industries) | Detected DDoS, brute-force & vuln scan events across enterprise infra using Splunk — built custom dashboards, threshold alerts & correlated Nessus output with Apache logs | `Splunk Enterprise` `SIEM` `Log Correlation` `Nessus` `Threat Hunting` |
-| 🐝 [**Wazuh Homelab SOC**](https://github.com/sagarbid/wazuh-homelab-soc) | SOC analyst portfolio built on a Wazuh homelab with an active agent and live alerts | `Wazuh` `SIEM` `Bash` `Alert Triage` |
 | 🧪 [**VirtualBox Cybersecurity Lab**](https://github.com/sagarbid/VirtualBox-Cybersecurity-Lab) | Hands-on virtual lab with Windows, Ubuntu and Kali Linux VMs for cybersecurity training, network testing and ethical hacking practice | `VirtualBox` `Kali` `Ubuntu` `Windows` |
 
 ## 🧩 Other Projects & Experiments
@@ -95,8 +89,6 @@ and experimenting with AI automation.
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | 🤖 [**AI Telegram Bot**](#) | Automation bot powered by Together.ai API with custom prompt engineering | `Python` `Telegram API` `Together.ai` |
-| 🛒 [**Ecommerce Store**](#) | Shopify storefront with custom branding, DNS config & Alibaba supplier chain | `Shopify` `DNS` `Branding` |
-| 🌐 [**Cybersecurity Portfolio Site**](https://www.bidarisagar.com) | Personal portfolio blog documenting labs, CTF write-ups & security research | `HTML` `GitHub Pages` |
 | 🧠 [**Claude Skills Collection**](https://github.com/sagarbid/claude-skills-collection) | 928 Claude Code skills — security, testing, frameworks, AI engineering & 832 Composio API integrations | `Shell` `Claude Code` |
 
 > 📌 *Pinned repos below — each includes a full write-up with methodology and screenshots.*
@@ -120,10 +112,10 @@ and experimenting with AI automation.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarbidari)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagarbid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybersecure@bidarisagar.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bidarisagar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-dhakal-234752438)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dsantosh-nep)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:dhakalsantosh509@outlook.com)
+
 
 ---
 
