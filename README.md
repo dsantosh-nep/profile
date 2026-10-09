@@ -8,11 +8,11 @@ HOW TO RECREATE THIS PROFILE
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d1117&height=160&section=header&text=Sagar%20Bidari&fontSize=40&fontColor=e6f1ff&fontAlignY=40&fontFamily=Space+Grotesk&desc=Cybersecurity%20Professional%20%E2%80%94%20Melbourne%2C%20AU&descSize=14&descAlignY=62&descColor=8892b0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d1117&height=160&section=header&text=Santosh%20Dhakal&fontSize=40&fontColor=e6f1ff&fontAlignY=40&fontFamily=Space+Grotesk&desc=Cybersecurity%20Professional%20%E2%80%94%20Melbourne%2C%20AU&descSize=14&descAlignY=62&descColor=8892b0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=600&lines=CompTIA+Security%2B+Certified+%F0%9F%94%90;Aspiring+SOC+Analyst+%26+Blue+Teamer;Monash+University+Cybersecurity+Bootcamp;Melbourne%2C+AU+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=600&lines=CompTIA+Security%2B+Certified+%F0%9F%94%90;Aspiring+SOC+Analyst+%26+Blue+Teamer;Microsoft+Certified+(SC-200)+credential+ongoing;Melbourne%2C+AU+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
 
-## "Security is not a product, but a process." — Bruce Schneier
+## "In the modern threat landscape, security is no longer an IT checklist—it is the foundation of business continuity. A strong defense doesn't just block attacks; it builds the digital resilience that allows an enterprise to scale without fear."
 
 </div>
 
@@ -20,17 +20,14 @@ HOW TO RECREATE THIS PROFILE
 
 ## 👾 About Me
 
-Hey! I'm **Santosh** — a cybersecurity professional based in **Melbourne, Australia 🇦🇺**,
+Hey! I'm **Santosh** — an aspiring cybersecurity professional based in **Melbourne, Australia 🇦🇺**,
 transitioning career into the world of **threat detection, incident response,
 and blue team operations**. I am currently studying Cibersecurity and pland to get **CompTIA Security+ CE certification by the end of October 2026 and ongoing Certification for **SC-200** I have worked as an IT Support Professional for more than 10 years back in my home country. I could not pursue my dream career due to some reasons but now I am on the way to reach my goal of becoming Cybersecurity Professional. 
-
-When I'm not spinning up virtual labs or hunting CTF flags, I'm building ecommerce ventures
-and experimenting with AI automation.
 
 - 🔭 **Currently working on:** Cybersecurity portfolio labs (SIEM, EDR, log analysis)
 - 🌱 **Currently learning:** Splunk, Microsoft Sentinel, SOC workflows & MITRE ATT&CK
 - 🛡️ **Goal:** Land a SOC Analyst / Help Desk / Systems Administrator role
-- 🏃 **Outside the terminal:** Playing and Watching Cricket, AI, 
+- 🏃 **Outside the terminal:** Playing and Watching Cricket, AI and more 
 - 💡 **Fun fact:** I am about to pivot from hospitality/care industry into cybersecurity without any regrets as I feel that this is where I belong. 
 
 ---
