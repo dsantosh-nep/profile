@@ -98,10 +98,10 @@ and blue team operations**. I am currently studying Cibersecurity and pland to g
 
 ![hacker](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sagarbid&theme=tokyonight&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbid&theme=tokyonight&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=dsantosh-nep&theme=tokyonight&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsantosh-nep&theme=tokyonight&hide_border=true&layout=compact)
 
-![Streak](https://github-readme-streak-stats-eight.vercel.app?user=sagarbid&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats-eight.vercel.app?user=dsantosh-nep&theme=tokyonight&hide_border=true)
 
 </div>
 
